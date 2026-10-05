@@ -1,0 +1,1 @@
+create index if not exists pop_productive_routes_symbol_idx on public.pop_productive_routes(symbol);\n
